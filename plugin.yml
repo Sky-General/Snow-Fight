@@ -1,0 +1,8 @@
+name: SnowFight
+version: TESTING
+description: A plugin for PortalKings
+author: [Sky_General109]
+main: me.skyGeneral.snowFight.Main
+commands:
+  SnowFight:
+    
